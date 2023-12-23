@@ -1,6 +1,6 @@
 # NameGenerator
 
-Fictional name generator. There is only russian version.
+Fictional name generator library. There is only russian version.
 
 ## Usage
 
